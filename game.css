@@ -36,7 +36,7 @@ float: none;
 text-align: left;
 }
 .btn_Login {
-	background-color: lavender;
+	background-color: rgb(134, 134, 255);
 	border-radius: 10px;
 }
 h1 {
@@ -44,4 +44,7 @@ h1 {
 }
 h3 {
 	font-family: 'Dosis', sans-serif;
+}
+#player1_name_input,#player2_name_input {
+	background-color: rgb(255, 179, 179);
 }
